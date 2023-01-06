@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Séphanie</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/vecteurs-premium/femme-utilisant-illustration-ordinateur-portable-fille-assise-au-bureau-personnage-dessin-anime-pigiste-femme-travaillant-ordinateur-clipart_276875-317.jpg?w=740>
 
 - 🌱 I’m currently learning to code **symfony**
 
